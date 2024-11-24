@@ -1,9 +1,9 @@
-<h2 align="center">Yaemori Bot - MD ✨️🌻</h2>
+<h2 align="center">kabani bot - MD ✨️🌻</h2>
 
 <p align="center">🌹 WhatsApp Bot Node-Js.</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&lines=©+YaemoriBot-MD;©+Powered+By+DevDiego+💫)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&lines=©+senku-MD;©+Powered+By+ahmed+aligue+💫)](https://git.io/typing-svg)
 
 ![Yaemori](https://qu.ax/oTXDG.jpg)
 
