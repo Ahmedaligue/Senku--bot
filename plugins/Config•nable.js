@@ -7,7 +7,7 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
   let isAll = false, isUser = false
   switch (type) {
   case 'welcome':
-    case 'bv':
+    case 'الترحيب':
     case 'bienvenida':
       if (!m.isGroup) {
         if (!isOwner) {
@@ -21,7 +21,7 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
       chat.welcome = isEnable
       break
 
-  case 'antiPrivate':
+  case 'مضادالخاص':
     case 'antiprivado':
     case 'antipriv':
      isAll = true
