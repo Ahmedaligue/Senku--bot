@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&lines=©+senku-MD;©+Powered+By+ahmed+aligue+💫)](https://git.io/typing-svg)
 
-![Yaemori](https://qu.ax/oTXDG.jpg)
+![Yaemori](https://qu.ax/eXHrB.jpg)
 
 ---
 
