@@ -499,7 +499,7 @@ if (!chat?.delete) return
 if (!msg) return 
 if (!msg?.isGroup) return 
 const antideleteMessage = `╭•┈•〘❌ 𝗔𝗡𝗧𝗜 𝗗𝗘𝗟𝗘𝗧𝗘 ❌〙•┈• ◊
-│❒ 𝗨𝗦𝗨𝗔𝗥𝗜𝗢:
+│❒ المستخدم:
 │• @${participant.split`@`[0]}
 │
 │❒ 𝗔𝗰𝗮𝗯𝗮 𝗱𝗲 𝗲𝗹𝗶𝗺𝗶𝗻𝗮𝗿 𝘂𝗻 𝗺𝗲𝗻𝘀𝗮𝗷𝗲
@@ -513,15 +513,15 @@ console.error(e)
 
 global.dfail = (type, m, conn) => {
 const msg = {
-rowner: '「👑」 *Esta función solo puede ser usada por mi creador*\n\n> DevDiego.', 
-owner: '「👑」 *Esta función solo puede ser usada por mi desarrollador.', 
+rowner: '「👑」 *هدا الامر لمطوري فقط*\n\n> aligue ahmed.', 
+owner: '「👑」 *هدا الامر للمطورين فقط.*', 
 mods: '「🤴🏻」 *Esta función solo puede ser usada por mis desarrolladores.*', 
-premium: '「🍧」 *Esta función solo es para usuarios Premium.', 
-group: '「🐢」 *Esta funcion solo puede ser ejecutada en grupos.*', 
-private: '「🍭」 *Esta función solo puede ser usada en chat privado.*', 
-admin: '「👑」 *Este comando solo puede ser usado por admins.*', 
-botAdmin: '「🚩」 *Para usar esta función debo ser admin.*', 
-unreg: '「🍟」 *¡Hey! no estas registrado, registrese para usar esta función*\n\n*/reg nombre.edad*\n\n*_❕ Ejemplo_* : */reg Yaemori.666*',
+premium: '「🍧」 *المعذرة انت لست مستخدم* *Premium.*', 
+group: '「🐢」 *هدا الامر للمجموعات فقط.*', 
+private: '「🍭」 *هدا الامر شغال فالخاص \n\n> اسئل المطور اولا.*', 
+admin: '「👑」 *هدا الامر للمشرفين فقط.*', 
+botAdmin: '「🚩」 *هدا الامر لمشرفي البوت فقط.*', 
+unreg: '「🍟」 *سيشتغل البوت بعد ان تتسجل* \n\nهكادا*\n\n*/تسجيل اسمك.عمرك*\n\n*_❕ متال_* : */تسجيل كاباني.18*',
 restrict: '「💫」 *Esta característica esta desactivada.*'
 }[type];
 if (msg) return conn.reply(m.chat, msg, m, rcanal).then(_ => m.react('✖️'))}
