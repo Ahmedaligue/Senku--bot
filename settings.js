@@ -18,7 +18,7 @@ global.confirmCode = ''
 
 global.owner = [
    ['212625457341', 'Creador 👑', true],
-   ['212813542982', 'Owner 🍭', true],
+   ['212713542982', 'Owner 🍭', true],
    ['573012482597'],
    ['5351524614'],
    ['5218711426787']
@@ -37,19 +37,19 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.5'
 global.vs = '2.0.7'
 global.vsJB = '5.0'
-global.nameqr = 'Ai Yaemori - MD'
-global.namebot = 'ᥡᥲᥱm᥆rі ᑲ᥆𝗍 ᰔᩚ'
+global.nameqr = 'kabani - MD'
+global.namebot = 'kabani ᑲ᥆𝗍 ᰔᩚ'
 global.sessions = 'MiniSession'
 global.jadi = 'MiniJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐀𝐢 𝐘𝐚𝐞𝐦𝐨𝐫𝐢 - 𝐌𝐃 ✰⪜'
-global.botname = 'Yaemori Bot - MD 🍟'
+global.packname = '⪛✰ kabani - bot ✰⪜'
+global.botname = 'kabani Bot - MD 🍟'
 global.wm = 'YaemoriBot-MD 🌸'
-global.author = 'Made By DevDiego 👑'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ძᥱ᥎ძіᥱg᥆ ✌︎'
-global.textbot = 'Ai Yaemori : DevDiego 🚩'
+global.author = 'Made By ahmed aligue 👑'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ahmed aligue ✌︎'
+global.textbot = 'kabani bot : ahmed aligue 🚩'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -64,16 +64,16 @@ global.avatar = fs.readFileSync('./src/img/avatar_contact.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/GkuIuySiMwb4qJGl3UJtcZ' //YaemoriBot
-global.grupo2 = 'https://chat.whatsapp.com/Ksd32KH9zFoDmO1PJt44M7' //GataBot & YaemoriBot
-global.grupo3 = 'https://chat.whatsapp.com/HjVwC835OWgERQYhspnMW8' //Megumin & YaemoriBot
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'
-global.channel2 = 'https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z'
-global.channel3 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
-global.md = 'https://github.com/Dev-Diego/YaemoriBot-MD' 
-global.yt = 'https://www.youtube.com/@OfcDiego'
-global.tiktok = 'https://tiktok.com/@dev_diego'
-global.correo = 'theyaemoribot@gmail.com'
+global.grupo = 'https://chat.whatsapp.com/GkuIySiMwb4qJGl3UJtcZ' //YaemoriBot
+global.grupo2 = 'https://chat.whatsapp.com/Ksd32KH9zFoDmO1PJt4M7' //GataBot & YaemoriBot
+global.grupo3 = 'https://chat.whatsapp.com/HjVwC835OWgERQYhspnMW' //Megumin & YaemoriBot
+global.channel = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u'
+global.channel2 = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u'
+global.channel3 = 'https://whatsapp.com/channel/0029Vay1N34Ae5VthwAYxi0u'
+global.md = 'https://github.com' 
+global.yt = 'https://www.youtube.com'
+global.tiktok = 'https://tiktok.com'
+global.correo = 'aligueahmed6@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -82,12 +82,12 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.ch = {
-ch1: '120363310433406751@newsletter',
-ch2: '120363263466636910@newsletter',
-ch3: '120363160031023229@newsletter',
-ch4: '120363307382381547@newsletter',
-ch5: '120363301598733462@newsletter',
-ch6: '120363371018732371@newsletter',
+ch1: '12036331043340651@newsletter',
+ch2: '12036326346636910@newsletter',
+ch3: '12036316001023229@newsletter',
+ch4: '12036330782381547@newsletter',
+ch5: '12036330198733462@newsletter',
+ch6: '12036337118732371@newsletter',
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
