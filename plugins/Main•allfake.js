@@ -28,17 +28,17 @@ console.log(`Error : ${e}`)
 }}
 
 //creador y otros
-global.creador = 'Wa.me/5493876432076'
+global.creador = 'Wa.me/212625457341'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'https://wa.me/message/O4QPPHZOFDOJI1'
-global.namechannel = '© All Rightd Reserved • YaemoriBot'
+global.asistencia = 'https://wa.me/message/6DFZG6TFQ7XWA1'
+global.namechannel = '© All Rightd Reserved • senku bot'
 global.listo = '✨️ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://qu.ax/QGAVS.jpg')
 
 //ids channel
-global.channelid = '120363310433406751@newsletter'
-global.canalIdYL = ["120363160031023229@newsletter", "120363310433406751@newsletter", "120363263466636910@newsletter", "120363307382381547@newsletter", "120363301598733462@newsletter"]
-global.canalNombreYL = ["INFINITY-WA 💫", "YaemoriBot - Test 🚩", "© All Rightd Reserved • YaemoriBot", "Megumin Bot - Channel 💥", "Sky Ultra Plus ☁️"]
+global.channelid = '12036331043340651@newsletter'
+global.canalIdYL = ["12036316031023229@newsletter", "12036310433406751@newsletter", "12036326366636910@newsletter", "12036330738238147@newsletter", "12036330598733462@newsletter"]
+global.canalNombreYL = ["swnku-WA 💫", "swnku- Test 🚩", "© All Rightd Reserved • senku", " Bot - Channel 💥", "s ☁️"]
 global.channelRD = await getRandomChannel()
 
 //fechas
@@ -109,9 +109,9 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://qu.ax/jqbRA.jpg',
-'https://qu.ax/scObN.jpg',
-'https://qu.ax/nqXmE.jpg'
+'https://qu.ax/eXHrB.jpg',
+'https://qu.ax/eXHrB.jpg',
+'https://qu.ax/eXHrB.jpg'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name, }, externalAdReply: { showAdAttribution: true, title: namebot, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
